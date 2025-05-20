@@ -4,7 +4,7 @@ const SuggestedReplies = () => {
   const replies = [
     "Thanks for reaching out! We're looking into it.",
     "Can you provide more details, please?",
-    "Happy to help! Let me check that for you."
+    "Happy to help! Let me check that for you"
   ];
 
   return (
